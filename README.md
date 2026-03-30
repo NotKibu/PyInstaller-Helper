@@ -1,2 +1,2 @@
-# PyInstaller-Helper
+# PyInstaller Helper
 PyInstaller Helper
